@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIZZA</title>
+</head>
+<body>
+   
+    <table border="5">
+        <tr>
+            <th colspan="5">DOMINOS ONLINE DELIVERY</th>
+        </tr>
+        <tr>
+            <th colspan="5">PERSONAL DETAILS</th>
+        </tr>
+        <tr>
+        <td>
+            <label for="name">FIRST NAME</label>
+        </td>
+            <td>
+                <input type="text">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="number">PHONE NUMBER</label>
+            </td>
+            <td>
+                <input type="number">
+            </td>
+        </tr>
+        <tr>
+            <th colspan="5">ORDER PREFERENCES</th>
+        </tr>
+        <tr>
+            <td><label for="size">SIZE</label></td>
+            <td>
+                <input type="radio">SMALL
+             <input type="radio">MEDIUM
+            <input type="radio">LARGE
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="base">BASE</label>
+            </td>
+            <td>
+                <select>
+                    <option >CHICKEN STUFFED CRUST</option>
+                    <option>ONION PIZZA</option>
+                    <option>CORN CHEESE PIZZA</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="toppings">TOPPINGS</label>
+                </td>
+               <td>
+                 <input type="checkbox">cheese
+                <input type="checkbox">olives
+                <input type="checkbox">Tomatoes
+                <input type="checkbox">Capsicum
+                <input type="checkbox">Jalapenos
+                <br>
+                <input type="checkbox">Mushrooms
+                <input type="checkbox">pepperonion
+                <input type="checkbox">onion
+
+            </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="additional details">ADDITIONAL DETAILS</label>
+                </td>
+                <td>
+                    <textarea cols="30" rows="2"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <th colspan="5">
+                    <label for="confirm details">confirm details and proceed to pay?</label>
+                    <input type="radio">yes
+                    <input type="radio">no
+                </th>
+            </tr>
+            <tr>
+                <th colspan="5">
+                    <input type="button" value="SUBMIT">
+                </th>
+            </tr>
+    
+
+        
+
+        
+    
+</table>
+
+
+
+    
+</body>
+</html>

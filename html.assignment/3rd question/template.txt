@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1> <center> POPULAR DISHES</center></h1>
+        <div class="row">
+    <div class="card">
+        <img src="https://hips.hearstapps.com/hmg-prod/images/20190905-delish-chiapudding-ehg-1248-jpg-1569007244.jpg?crop=1xw:1xh;center,top&resize=640:*" alt="">
+        <h4>CIA PUDDING</h4>
+        <p>Chia pudding is incredibly healthy because chia seeds are loaded with omega 3 fatty acids, protein, antioxidants and fiber. The soluble fiber in chia seeds can help with weight loss by keeping you feeling full and it can also help with constipation.</p>
+        <p>$8.99</p>
+        <a href="#" class="btn">BUY NOW</a>
+    </div>
+    <div class="card">
+        <img src="https://www.simplyrecipes.com/thmb/QAY2WlJ6xMQMY6vrLVrlgZe7sfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Perfect-Cheesecake-LEAD-6-97a8cb3a60c24903b883c1d5fb5a69d3.jpg" alt="">
+        <h4>Cheesecake</h4>
+        <p>Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest, layer consists of a mixture of a soft, fresh cheese, eggs, and sugar. If there is a bottom layer, it most often consists of a crust or base made from crushed cookies, graham crackers, pastry, or sometimes sponge cake.</p>
+        <p>$12.99</p>
+        <a href="#" class="btn">BUY NOW</a>
+    </div>
+    <div class="card">
+        <img src="https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg" alt="">
+        <h4>chocolate cake</h4>
+        <p>Chocolate cake or chocolate gâteau is a cake flavored with melted chocolate, cocoa powder, or both.</p>
+        <p>$19.0</p>
+        <a href="#" class="btn">BUY NOW</a>
+    </div>
+    <div class="card">
+        <img src="https://sugargeekshow.com/wp-content/uploads/2019/07/fresh-strawberry-cake-5.jpg" alt="">
+        <h4>strawberry cake</h4>
+        <p>Mahabaleshwar strawberry is a strawberry grown in the hilly slopes of Mahabaleshwar, which accounts for about 85 percent of the total strawberry produced in India. Strawberry, along with raspberry, mulberry and gooseberry, is produced on a large scale in and around Mahabaleshwar.</p>
+        <p>$19.0</p>
+        <a href="#" class="btn">BUY NOW</a>
+    </div>
+    <div class="card">
+        <img src="https://sugargeekshow.com/wp-content/uploads/2020/06/moist_vanilla_cake_recipe_featured2.jpg" alt="">
+        <h4>Vanilla cake</h4>
+        <p>It actually just refers to the flavor of a vanilla custard (aka the classic French way of making ice cream from cream and egg yolks). French vanilla cake mimics a custard flavor by including egg yolks in the batter, making it a yellow cake.</p>
+        <p>$20.0</p>
+        <a href="#" class="btn">BUY NOW</a>
+    </div>
+    <div class="card">
+        <img src="https://static.halfcute.com/rs:600:auto:auto/jpeg:85/cakeszone/product/cakezone-black-currant-halfcute-36ee7990-4e50-11ea-b29c-d7f78a91d86d.png" alt="">
+        <h4>blackcurrent cake</h4>
+        <p>With hints of acid and deep red wine notes, they pair well with meats for main courses. Blackcurrants have a bit of wild, untamed flavor that compliments game meats perfectly. They're especially good with duck, and I'm excited about trying them with Venison this year.</p>
+        <p>$26.9</p>
+        <a href="#" class="btn">BUY NOW</a>
+    </div>
+    </div>
+        </div>
+
+    </div>
+</body>
+</html>
